@@ -1,4 +1,4 @@
 app:
- name: ms from server
+ name: spring-cloud-config
 my:
- greeeting: Hello world ${app.name}
+ greeting: Hello world ${app.name}
