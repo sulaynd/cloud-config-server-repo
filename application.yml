@@ -1,5 +1,5 @@
 my:
- greeting: Hello world from config server
+ greeeting: Hello world config server
  list:
   values: One,Two,Three,Four
 

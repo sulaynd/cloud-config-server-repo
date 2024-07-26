@@ -1,1 +1,4 @@
-app.name= ms from server
+app:
+ name: ms from server
+my:
+ greeeting: Hello world ${app.name}
