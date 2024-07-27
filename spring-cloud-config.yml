@@ -1,4 +1,4 @@
 app:
- name: spring-cloud-config-client microservice
+ name: spring-cloud-config microservice
 my:
  greeting: Hello world ${app.name}
