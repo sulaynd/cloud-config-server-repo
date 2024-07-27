@@ -1,4 +1,2 @@
-app:
- name: spring-cloud-config microservice
-my:
- greeting: Hello world from the ${app.name}
+app.name: spring-cloud-config microservice
+my.greeting: Hello world from ${app.name}
